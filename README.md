@@ -80,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,github,html,java,js,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c++,css,discord,github,html,java,js,py,react,ts,vscode" />
   </a>
 </p>
 
