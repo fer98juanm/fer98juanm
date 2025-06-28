@@ -26,8 +26,6 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
 - 💬 Ask me about **c++,data science, react**
 
 - 📫 Feel free to reach me out **juancitoo_2010@hotmail.com**
@@ -59,10 +57,6 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
 </div>
 <!--- trophy (start) -->
 
@@ -80,7 +74,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c++,css,discord,github,html,java,js,py,react,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=c++,css,discord,github,html,java,js,py,react,vscode" />
   </a>
 </p>
 
