@@ -109,6 +109,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/fer98juanm)
+Credit: [1fer98juanm](https://github.com/fer98juanm)
 
-Last Edited on: 29/4/2023
+Last Edited on: 29/6/2025
